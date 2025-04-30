@@ -1,0 +1,43 @@
+/* Background halaman */
+body {
+    background-color: white; font-family: 'Times New Roman'; padding: 20px;
+}
+
+/* Judul */
+h1 {
+    font-size: 15px; font-weight: bold; text-align: left;
+}
+
+/* Nama */
+#nama {
+    background-color: blue; color: yellow; font-weight: bold; padding: 5px;
+}
+
+/* NIM */
+.nim {
+    color: blue; text-align: left;
+}
+
+/* Isi Paragraf Yang Ditengahkan */
+.paragraftengah {
+    text-align: center; margin: 20px 0;
+}
+
+/* Highlight "ipsum" */
+.biru {
+    background-color: blue; color: white;
+}
+
+/* Highlight "amet" */
+.kuning {
+    background-color: yellow; color: black;
+}
+
+/* Link YouTube */
+a {
+    color: blue; font-weight: bold; text-decoration: none; display: block; margin-top: 25x; text-align: left;
+}
+
+a:hover {
+    text-decoration: underline;
+}
